@@ -1,0 +1,330 @@
+{
+  "business": {
+    "name": "Val's a2z Services",
+    "shortName": "Val's a2z",
+    "tagline": "Your Neighborhood Handyman – Expert Repairs, Quality Craftsmanship",
+    "niche": "Handyman",
+    "phone": "(214) 774-7754",
+    "address": "205 Quail Run Rd, Red Oak, TX 75154",
+    "city": "Red Oak, TX",
+    "hours": "Mon–Fri 7:00 AM – 6:00 PM, Sat 8:00 AM – 2:00 PM",
+    "ctaLabel": "Schedule Service",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Val's a2z Services | Trusted Handyman in Red Oak, TX",
+    "description": "Professional handyman services in Red Oak, TX. From plumbing to drywall, Val's a2z delivers quality repairs & home improvements. Call (214) 774-7754."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Red Oak's Go-To Handyman",
+      "headline": "Expert Home Repairs & Improvements – Done Right the First Time",
+      "subheadline": "From leaky faucets to drywall patches, Val's a2z Services handles your to-do list with skill, reliability, and a smile.",
+      "primaryCta": "Get a Free Estimate",
+      "secondaryCta": "See Our Services"
+    },
+    "stats": [
+      {
+        "value": "150+",
+        "label": "Happy Homeowners Served"
+      },
+      {
+        "value": "4.9",
+        "label": "Average Rating"
+      },
+      {
+        "value": "5+",
+        "label": "Years in Business"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Why Choose Us",
+        "title": "Full-Service Handyman – One Call Does It All",
+        "body": "Whether it's a broken garbage disposal, a wobbly ceiling fan, or a full room refresh, Val's a2z Services brings decades of experience to every project. We take pride in punctuality, clear communication, and quality workmanship that lasts.",
+        "bullets": [
+          "Licensed & insured for your peace of mind",
+          "Transparent pricing with no hidden fees",
+          "Same-day service for urgent repairs",
+          "Eco-friendly materials whenever possible"
+        ],
+        "reverse": false,
+        "cardLabel": "Our Promise",
+        "cardTitle": "We Stand Behind Our Work",
+        "cardBody": "If you're not satisfied, we'll make it right. That's the Val's a2z guarantee."
+      },
+      {
+        "eyebrow": "Our Expertise",
+        "title": "Skilled in Every Trade – From Plumbing to Carpentry",
+        "body": "No job is too small or too complex. Our team is trained in multiple trades, so you don't have to juggle multiple contractors. We bring the right tools and know-how to get the job done efficiently.",
+        "bullets": [
+          "Interior & exterior repairs",
+          "Fixture installation & assembly",
+          "Painting, drywall, & texture matching",
+          "Carpentry, shelving, & custom builds"
+        ],
+        "reverse": true,
+        "cardLabel": "Pro Tip",
+        "cardTitle": "Preventative Maintenance Saves Money",
+        "cardBody": "Catching small issues early can avoid costly repairs down the road. We offer seasonal check-ups to keep your home in top shape."
+      }
+    ],
+    "whyTitle": "Why Red Oak Homeowners Trust Val's a2z",
+    "whyChooseUs": [
+      {
+        "title": "Local & Reliable",
+        "description": "We live and work in Red Oak, so we understand the unique needs of our community. Expect fast response times and a friendly face."
+      },
+      {
+        "title": "Quality Craftsmanship",
+        "description": "Every job is done with attention to detail. We use premium materials and proven techniques to ensure lasting results."
+      },
+      {
+        "title": "Upfront Pricing",
+        "description": "No surprises. We provide a detailed estimate before starting any work, so you know exactly what to expect."
+      },
+      {
+        "title": "Fully Insured",
+        "description": "Your home and family are protected. We carry full liability insurance for your peace of mind."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Val's a2z fixed my leaking kitchen sink in under an hour. Professional, clean, and fair priced. Highly recommend!",
+        "author": "Tom R.",
+        "role": "Red Oak Homeowner"
+      },
+      {
+        "quote": "They installed new shelving in my garage and it looks amazing. Great communication and the work was flawless.",
+        "author": "Lisa M.",
+        "role": "Meadow Creek Resident"
+      },
+      {
+        "quote": "I've used Val's a2z for multiple projects – drywall repair, painting, and a ceiling fan install. Always top-notch.",
+        "author": "James K.",
+        "role": "Ovilla Homeowner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Tackle Your To-Do List?",
+      "subheadline": "Call us today and let's get started. Free estimates for all projects.",
+      "primaryCta": "Call (214) 774-7754",
+      "secondaryCta": "Request Online Estimate"
+    }
+  },
+  "servicesPage": {
+    "intro": "From minor fixes to major improvements, Val's a2z Services offers a full range of handyman solutions for Red Oak homeowners. Every service is backed by our commitment to quality, transparency, and customer satisfaction."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Plumbing Repairs & Installation",
+      "shortDescription": "Fix leaks, unclog drains, replace fixtures – fast and reliable plumbing solutions.",
+      "longDescription": "From dripping faucets to running toilets, our plumbing services cover everything you need to keep your water systems flowing smoothly. We handle repairs, replacements, and new installations with precision and care.",
+      "benefits": [
+        "Stop water waste and lower utility bills",
+        "Prevent mold and water damage",
+        "Professional-grade tools and techniques",
+        "Same-day service for emergencies"
+      ],
+      "process": [
+        {
+          "title": "Diagnose",
+          "description": "We inspect the issue, identify the root cause, and explain your options."
+        },
+        {
+          "title": "Repair or Replace",
+          "description": "Using quality parts, we fix or install fixtures efficiently."
+        },
+        {
+          "title": "Test & Clean Up",
+          "description": "We test everything to ensure proper function and leave your space spotless."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you handle emergency plumbing calls?",
+          "answer": "Yes, we offer same-day service for urgent plumbing issues. Call us anytime during business hours."
+        },
+        {
+          "question": "Can you replace a garbage disposal?",
+          "answer": "Absolutely. We install and replace garbage disposals, including hardwired and plug-in models."
+        }
+      ],
+      "slug": "plumbing-repairs-installation"
+    },
+    {
+      "icon": "02",
+      "title": "Drywall & Painting",
+      "shortDescription": "Patch holes, repair damage, and refresh walls with flawless painting.",
+      "longDescription": "Cracks, dents, and holes are no match for our drywall experts. We match textures seamlessly and apply premium paint for a smooth, lasting finish. Interior and exterior projects welcome.",
+      "benefits": [
+        "Seamless texture matching for invisible repairs",
+        "Enhance curb appeal and home value",
+        "Lead-safe practices for older homes",
+        "Clean, dust-free work environment"
+      ],
+      "process": [
+        {
+          "title": "Prep & Protect",
+          "description": "We cover floors and furniture, then prepare the surface for repair."
+        },
+        {
+          "title": "Repair & Finish",
+          "description": "We apply compound, sand, and texture to match existing walls."
+        },
+        {
+          "title": "Paint & Detail",
+          "description": "We prime and paint with precision, ensuring crisp edges and even coverage."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you match my wall texture?",
+          "description": "Yes, we specialize in matching orange peel, knockdown, smooth, and other common textures."
+        },
+        {
+          "question": "How long does drywall repair take?",
+          "description": "Most small patches are completed in one visit. Larger repairs may require a second day for drying."
+        }
+      ],
+      "slug": "drywall-painting"
+    },
+    {
+      "icon": "03",
+      "title": "Carpentry & Custom Builds",
+      "shortDescription": "Built-in shelves, trim work, decks, and more – custom woodwork for your home.",
+      "longDescription": "Transform your space with custom carpentry. From crown molding to built-in bookcases, outdoor decks to pergolas, we bring your vision to life with quality materials and expert craftsmanship.",
+      "benefits": [
+        "Custom designs tailored to your style",
+        "Increase storage and functionality",
+        "Durable, long-lasting construction",
+        "Enhance architectural character"
+      ],
+      "process": [
+        {
+          "title": "Design & Plan",
+          "description": "We discuss your needs, measure the space, and create a detailed plan."
+        },
+        {
+          "title": "Build & Install",
+          "description": "Our carpenters construct and install with precision, using solid wood and quality hardware."
+        },
+        {
+          "title": "Finish & Detail",
+          "description": "We sand, stain, or paint to your preference, ensuring a perfect fit and finish."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you build custom closet organizers?",
+          "answer": "Yes, we design and build custom closet systems to maximize your storage space."
+        },
+        {
+          "question": "Do you build outdoor structures like decks or pergolas?",
+          "answer": "Absolutely. We handle all types of outdoor carpentry, including pressure-treated and composite materials."
+        }
+      ],
+      "slug": "carpentry-custom-builds"
+    },
+    {
+      "icon": "04",
+      "title": "Electrical & Lighting",
+      "shortDescription": "Install fixtures, replace outlets, and troubleshoot electrical issues safely.",
+      "longDescription": "From ceiling fans to dimmer switches, our electrical services cover a wide range of residential needs. We prioritize safety and code compliance in every job.",
+      "benefits": [
+        "Licensed and insured electrical work",
+        "Energy-efficient lighting options",
+        "Smart home upgrades available",
+        "Thorough testing for safety"
+      ],
+      "process": [
+        {
+          "title": "Assessment",
+          "description": "We evaluate the electrical need and discuss the best solution."
+        },
+        {
+          "title": "Installation",
+          "description": "We safely install or repair fixtures, wiring, and switches."
+        },
+        {
+          "title": "Inspection",
+          "description": "We test all connections and ensure everything meets local codes."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you install a ceiling fan where there's no existing wiring?",
+          "answer": "Yes, we can run new wiring and install a fan box to safely support the fixture."
+        },
+        {
+          "question": "Do you replace old outlets with USB outlets?",
+          "answer": "Yes, we install USB combo outlets and GFCI outlets for added convenience and safety."
+        }
+      ],
+      "slug": "electrical-lighting"
+    }
+  ],
+  "about": {
+    "headline": "Meet Val – Your Trusted Red Oak Handyman",
+    "mission": "To provide Red Oak homeowners with honest, high-quality handyman services that make their lives easier and their homes better.",
+    "story": [
+      "Val's a2z Services was born from a simple belief: every home deserves care and attention. After years of working on homes for family and friends, Val realized that finding a reliable, skilled handyman was a common struggle. So he set out to fill that gap, offering professional repairs and improvements with a personal touch.",
+      "Today, Val's a2z serves the entire Red Oak area, from historic homes to new builds. We've built a reputation for showing up on time, communicating clearly, and delivering work that stands the test of time. Whether it's a small fix or a major project, we treat every home like our own."
+    ],
+    "highlight": {
+      "stat": "500+",
+      "label": "Projects Completed"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We do what we say and stand behind our work. No shortcuts, no excuses."
+      },
+      {
+        "title": "Craftsmanship",
+        "description": "We take pride in every detail, using the best techniques and materials."
+      },
+      {
+        "title": "Respect",
+        "description": "We treat your home and your time with the utmost respect."
+      },
+      {
+        "title": "Community",
+        "description": "We're proud to be part of Red Oak and give back whenever we can."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Let's Get Started on Your Project",
+    "subheadline": "Call or fill out the form – we'll respond within 24 hours.",
+    "primaryCta": "Call (214) 774-7754",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Red Oak",
+      "Ovilla",
+      "Waxahachie",
+      "Midlothian",
+      "Lancaster",
+      "Glenn Heights",
+      "DeSoto",
+      "Cedar Hill"
+    ]
+  },
+  "social_proof": {
+    "rating": 3.9,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Handyman",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2147747754",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
